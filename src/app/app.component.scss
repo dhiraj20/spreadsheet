@@ -1,0 +1,27 @@
+button {
+    border-radius: 9px;
+    min-width: 100px;
+    padding: 9px;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    background: #02062b;
+    color: #F2B33F;
+    cursor: pointer;
+}
+
+label {
+    font-weight: 500;
+    color: #0b3246;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.error {
+    border: 1px solid rgb(189, 72, 72);
+    width: 20%;
+}
+
+.header {
+    font-size: 18px;
+    font-weight: 600;
+}
