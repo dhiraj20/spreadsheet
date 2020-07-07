@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
-const URL = 'http://localhost:3000';
+const URL = 'https://github.com/steptosoft/demoInsertion';
 const getDataUrl = URL + '/' + 'sheet';
 const addDataUrl = URL + '/' + 'sheet';
 
